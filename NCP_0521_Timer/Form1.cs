@@ -15,5 +15,10 @@ namespace NCP_0521_Timer
         {
             InitializeComponent();
         }
+
+        private void Timer1_Tick(object sender, EventArgs e)
+        {
+
+        }
     }
 }
